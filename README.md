@@ -40,15 +40,7 @@
          <li><a href="https://github.com/crossbell8368/KDT3_CardMonkey" target="_blank">Project Link</li>
       </ul>
    </li>
-  
-  <li><b>[개인]프로젝트 조나단: 리마스터 | Backend-Developer : Working Progress </b>
-      <ul class="square">
-         <li>영어 PDF논문 번역 서비스</li>
-         <li>초기: 인프라 구축(Nodejs), 웹서비스 구축 담당</li>
-         <li><a href="https://github.com/crossbell8368/KDT3_CardMonkey" target="_blank">Project Link</li>
-      </ul>
-   </li>
-   
+
 <br>
 
 
